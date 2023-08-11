@@ -1,6 +1,5 @@
 class Hello;
 public static void main(string[]args)
 {
-for(i=0;i<=5;i++)
-Sysout.out.println(i);
+System.out.println(i);
 }
